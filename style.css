@@ -1,0 +1,10 @@
+.Body{
+    height:fit-content;
+    width:fit-content;
+    background-color: aqua;
+    align-items: center;
+    
+}
+h1{
+    text-decoration: solid;
+}
